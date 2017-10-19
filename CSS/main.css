@@ -1,0 +1,96 @@
+h3{
+color: gray;
+border-bottom:5px solid gray;
+width: 149PX;
+
+}.img_1{
+  margin-right: 20px;
+  position: absolute;
+}
+
+.img_1 .texto_1 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 30px;
+
+}
+
+.img_2 {
+  position: absolute;
+  left: 180px;
+}
+
+.img_2 .texto_2 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 30px;
+}
+
+
+.img_3{
+position: absolute;
+left: 350px;
+}
+
+.img_3 .texto_3 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 10px;
+}
+
+.img_4{
+position: absolute;
+top: 235px;
+}
+
+.img_4 .texto_4 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 30px;
+}
+
+.img_5{
+position: absolute;
+top: 235px;
+left: 180px;
+}
+
+.img_5 .texto_5 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 30px;
+}
+
+.img_6{
+position: absolute;
+top: 235px;
+left: 350px;
+}
+
+.img_6 .texto_6 p{
+  position: absolute;
+  color: white;
+  top: 120px;
+  left: 30px;
+}
+/*.abajo .img_4{
+  margin-right: 20px;
+}
+
+.abajo .img_5{
+  margin-right: 20px;
+}
+
+.abajo .img_6{
+  margin-right: 20px;
+}
+
+.img_1 p{
+	position:absolute;
+}
+*/
